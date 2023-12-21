@@ -1,6 +1,7 @@
 # Zadanie
 W zadaniu 1 utworzone zostało repozytorium zawierające dwa pliki tekstowe z różną zawartością. 
 
+
 W zadaniu 2 zmodyfikowano zawartość obu plików 
 
 w zadaniu 3 sklonowano katalog repo1 jako repo2
